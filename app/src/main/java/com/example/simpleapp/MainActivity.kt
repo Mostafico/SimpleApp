@@ -23,6 +23,8 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colors.background
                 ) {
                     Greeting("Android")
+                    //fixed some bugs
+                    //added some feature
                 }
             }
         }
