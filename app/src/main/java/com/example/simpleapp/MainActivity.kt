@@ -25,6 +25,7 @@ class MainActivity : ComponentActivity() {
                     Greeting("Android")
                     //fixed some bugs
                     //added some feature x
+                    // added some fearture y
                 }
             }
         }
